@@ -8,8 +8,8 @@ and an interactive dashboard that turns the numbers into decisions.
 **Dataset:** [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 (UCI #502) — one UK online retailer, Dec 2009 – Dec 2011.
 
-> **Live dashboard:** _add your GitHub Pages / Tableau Public link here_ ·
-> see [`dashboard/index.html`](dashboard/index.html) (self-contained, opens in any browser)
+> **Live dashboard:** <https://smileyddx1.github.io/ecommerce-analytics/dashboard/index.html>
+> (GitHub Pages) · source: [`dashboard/index.html`](dashboard/index.html) (self-contained, opens in any browser)
 
 ---
 
