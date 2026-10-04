@@ -1,0 +1,6 @@
+segment,customers,total_revenue,avg_revenue,avg_frequency,avg_recency_days
+Champions,761,9532123.33,12525.79,22.4,9.4
+Loyal,1289,3769835.79,2924.62,7.37,39.9
+At-Risk,888,2191771.95,2468.21,6.53,274.5
+Lost,2052,1120799.19,546.2,1.49,409.5
+New / Promising,888,760273.99,856.16,1.78,39.3

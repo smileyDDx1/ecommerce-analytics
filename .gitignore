@@ -1,0 +1,17 @@
+# Raw data — do not commit (see data/README for the download link)
+data/*.zip
+data/*.xlsx
+data/*.db
+data/*.pkl
+data/_raw_cache*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

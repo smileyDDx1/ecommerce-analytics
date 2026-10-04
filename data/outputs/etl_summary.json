@@ -1,0 +1,21 @@
+{
+  "raw_rows": 1067371,
+  "exact_duplicates_removed": 34335,
+  "rows_missing_key_removed": 0,
+  "cancellation_invoices": 8292,
+  "return_lines": 22497,
+  "rows_without_customer_id": 235151,
+  "revenue_without_customer_id": 2942780.04,
+  "clean_rows": 1033036,
+  "gross_revenue_all_rows": 18855533.68,
+  "date_min": "2009-12-01 07:45:00",
+  "date_max": "2011-12-09 12:50:00",
+  "table_row_counts": {
+    "customers": 5942,
+    "products": 5304,
+    "invoices": 53628,
+    "invoice_items": 1033036
+  },
+  "db_url": "sqlite://\u2026",
+  "elapsed_seconds": 102.4
+}

@@ -1,0 +1,56 @@
+{
+  "kpis": {
+    "total_revenue": 20476260.43,
+    "total_orders": 40077.0,
+    "total_customers": 5878.0,
+    "avg_order_value": 510.92,
+    "returns_rate_pct": 7.34
+  },
+  "repeat_purchase_rate_pct": 72.4,
+  "avg_month1_retention_pct": 21.2,
+  "segments": [
+    {
+      "segment": "Champions",
+      "customers": 761,
+      "total_revenue": 9532123.33,
+      "avg_revenue": 12525.79,
+      "avg_frequency": 22.4,
+      "avg_recency_days": 9.4
+    },
+    {
+      "segment": "Loyal",
+      "customers": 1289,
+      "total_revenue": 3769835.79,
+      "avg_revenue": 2924.62,
+      "avg_frequency": 7.37,
+      "avg_recency_days": 39.9
+    },
+    {
+      "segment": "At-Risk",
+      "customers": 888,
+      "total_revenue": 2191771.95,
+      "avg_revenue": 2468.21,
+      "avg_frequency": 6.53,
+      "avg_recency_days": 274.5
+    },
+    {
+      "segment": "Lost",
+      "customers": 2052,
+      "total_revenue": 1120799.19,
+      "avg_revenue": 546.2,
+      "avg_frequency": 1.49,
+      "avg_recency_days": 409.5
+    },
+    {
+      "segment": "New / Promising",
+      "customers": 888,
+      "total_revenue": 760273.99,
+      "avg_revenue": 856.16,
+      "avg_frequency": 1.78,
+      "avg_recency_days": 39.3
+    }
+  ],
+  "champions_share_of_revenue_pct": 46.6,
+  "at_risk_share_of_revenue_pct": 10.7,
+  "top_country_after_uk": "EIRE"
+}
